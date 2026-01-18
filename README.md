@@ -1,5 +1,6 @@
 # 💫 About Me:
-im currently learning  ethical hacking and cyber seurity and iam inters as hardware shop and service and server instollation<br>
+Pursuing BCA (2nd Year) | Aspiring Cybersecurity Professional & Ethical Hacker
+Proficient in Python, C++, Java, Linux, Servers & Computer Hardware , software<br>
 
 
 ## 🌐 Socials:
